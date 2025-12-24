@@ -80,11 +80,7 @@ border: 1px solid rgba(255, 0, 255, 0.4);
 box-shadow: 0 0 25px rgba(255, 0, 255, 0.35);
 ">
 
-### 📊 GitHub & Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay2432006&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+### 📊 Coding Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vijay2432006?theme=dark&font=JetBrains%20Mono&border=0" height="160"/>
